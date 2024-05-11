@@ -10,7 +10,16 @@ Our project focuses on creating a robust, scalable system to predict, interpret,
 For our third-year Mini Project, we began our research with a visit to the [Bombay Institution For Deaf & Mutes](https://www.justdial.com/Mumbai/Bombay-Institute-For-The-Deaf-Mutes-Opposite-Mazgaon-Court-Mazgaon/022P860275_BZDET). We initially gathered information about commonly used actions and words through the institution's teachers
 
 ## View Ishaara Ai website (Live Now 🔥)
-[![image](https://img.shields.io/badge/IshaaraAi-red?style=flat&link=https%3A%2F%2Fishaara.netlify.app%2F)](hhttps://ishaara.netlify.app/)
+[![image](https://img.shields.io/badge/IshaaraAi-red?style=flat)](https://ishaara.netlify.app/)
+
+Table Of Contents
+- [Tech Stack and Libraries](https://github.com/vnrr2023/ishaara_ml/tree/main?tab=readme-ov-file#tech-stack)
+- [Object Detection based IshaaraAi](https://github.com/vnrr2023/ishaara_ml/tree/main?tab=readme-ov-file#object-detection-based-ishaara-model)
+- [Gru Based Sequence2Sequence IshaaraAi](https://github.com/vnrr2023/ishaara_ml/tree/main?tab=readme-ov-file#gru-based-sequence-to-sequence-model-using-mediapipe-version-2)
+- [ConvLSTM Based IshaaraAi](#)
+- [Ishaara Net using 3d Convolution.](#)
+- [Contributors](#)
+- [System Architecture.](#)
 
 
 ## Tech Stack
@@ -18,9 +27,8 @@ For our third-year Mini Project, we began our research with a visit to the [Bomb
 ![My Skills](https://skillicons.dev/icons?i=python,javascript,react,tailwind,netlify&perline=10)
 ## Libraries and ML Frameworks
 ![My Skills](https://skillicons.dev/icons?i=tensorflow,pytorch,sklearn,&perline=10)
-
-![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
-
+ 
+![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) 
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
 
 ![ChatGPT](https://img.shields.io/badge/chatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white)
@@ -78,6 +86,9 @@ For our third-year Mini Project, we began our research with a visit to the [Bomb
 [![portfolio](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)]("https://ishaara.netlify.app/")
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/)
 [![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/)
+
+## Architecture Of Entire system
+  ![architecture](https://github.com/vnrr2023/ishaara_ml/blob/main/RCNN+roboflow/architecture%20.gif?raw=true)
 
 More icons
 https://badges.pages.dev/
