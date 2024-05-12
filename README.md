@@ -52,6 +52,9 @@ Table Of Contents
   ![metrics](https://github.com/vnrr2023/ishaara_ml/blob/main/RCNN+roboflow/metrics/metrics.png?raw=true)
 
 ###  GRU Based Sequence To Sequence Model using Mediapipe Version 2
+<p align="center">
+  <img src="https://github.com/vnrr2023/ishaara_ml/blob/main/GIFS/rnn.gif?raw=true" />
+</p>
 ![Gru](https://github.com/vnrr2023/ishaara_ml/blob/main/GIFS/rnn.gif?raw=true)
 - Extracted landmarks using Mediapipe from videos collected from school students.
 - Works with 99% testing accuracy with 6 actions namely 
@@ -74,6 +77,9 @@ Table Of Contents
  
 ```
 ### ConvLSTM Based 
+<p align="center">
+  <img src="https://github.com/vnrr2023/ishaara_ml/blob/main/GIFS/convlstm.gif?raw=true" />
+</p>
 ![Cl](https://github.com/vnrr2023/ishaara_ml/blob/main/GIFS/convlstm.gif?raw=true)
 - This is a combination of Convolution layers and Lstm cells through which we tried ``` Video Classification for actions ```.
 - Collected Videos and Trained a model for 8hrs on CPU.
@@ -85,6 +91,10 @@ Table Of Contents
   ![metrics](https://github.com/vnrr2023/ishaara_ml/blob/main/ConvLSTM/Stats/stats.png?raw=true)
 
 ### Conv3D Based Video Classification Approach.
+<p align="center">
+  <img src="https://github.com/vnrr2023/ishaara_ml/blob/main/GIFS/1%20(1).gif?raw=true" />
+</p>
+
 ![Gru](https://github.com/vnrr2023/ishaara_ml/blob/main/GIFS/1%20(1).gif?raw=true)
 
 - Sadly we could not develop this model as we had less powerfull resources.
@@ -104,9 +114,7 @@ Table Of Contents
 [![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/)
 
 ## Architecture Of Entire system
-<p align="center">
-  <img src="https://github.com/vnrr2023/ishaara_ml/blob/main/RCNN+roboflow/architecture%20.gif?raw=true" />
-</p>
+
 
   ![architecture](https://github.com/vnrr2023/ishaara_ml/blob/main/RCNN+roboflow/architecture%20.gif?raw=true)
 
