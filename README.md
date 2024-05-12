@@ -16,12 +16,12 @@ Table Of Contents
 - [Tech Stack and Libraries](https://github.com/vnrr2023/ishaara_ml/tree/main?tab=readme-ov-file#tech-stack)
 - [Object Detection based IshaaraAi](https://github.com/vnrr2023/ishaara_ml/tree/main?tab=readme-ov-file#object-detection-based-ishaara-model)
 - [Gru Based Sequence2Sequence IshaaraAi](https://github.com/vnrr2023/ishaara_ml/tree/main?tab=readme-ov-file#gru-based-sequence-to-sequence-model-using-mediapipe-version-2)
-- [ConvLSTM Based IshaaraAi](#)
-- [Ishaara Net using 3d Convolution.](#)
-- [Future Scope and practices](#)
-- [Contributors](#)
-- [System Architecture.](#)
-- 
+- [ConvLSTM Based IshaaraAi](https://github.com/vnrr2023/ishaara_ml/tree/main#convlstm-based)
+- [Ishaara Net using 3d Convolution.](https://github.com/vnrr2023/ishaara_ml/tree/main#conv3d-based-video-classification-approach)
+- [Future Scope and practices](https://github.com/vnrr2023/ishaara_ml/tree/main#future-scope-and-other-practices)
+- [Contributors](https://github.com/vnrr2023/ishaara_ml/tree/main#-contributors)
+- [System Architecture.](https://github.com/vnrr2023/ishaara_ml/tree/main#architecture-of-entire-system)
+
 
 
 ## Tech Stack
@@ -80,7 +80,7 @@ Table Of Contents
 ```
 ### ConvLSTM Based 
 <p align="center">
-  <img src="https://github.com/vnrr2023/ishaara_ml/blob/main/GIFS/convlstm.gif?raw=true" />
+  <img src="https://github.com/vnrr2023/ishaara_ml/blob/main/GIFS/convlstm.gif?raw=true" width="50%" height="50%" />
 </p>
 
 - This is a combination of Convolution layers and Lstm cells through which we tried ``` Video Classification for actions ```.
@@ -89,7 +89,7 @@ Table Of Contents
 - The [main.py](https://github.com/vnrr2023/ishaara_ml/blob/main/ConvLSTM/main.py) contains file through u can do real time predictions.
 - The [train.py](https://github.com/vnrr2023/ishaara_ml/blob/main/ConvLSTM/train.py) contains the script to train the model. (First you need to run the ```model_builder.py``` script).
 - The [model_builder.py](https://github.com/vnrr2023/ishaara_ml/blob/main/ConvLSTM/model_builder.py) script when run creates a model and stores it as ``` raw_model.h5``` which is then used for training. (This is done to increase the efficiency and system wont go in deadlock statte)
-* Metrics 
+* Metrics <br/> 
   ![metrics](https://github.com/vnrr2023/ishaara_ml/blob/main/ConvLSTM/Stats/stats.png?raw=true)
 
 ### Conv3D Based Video Classification Approach.
