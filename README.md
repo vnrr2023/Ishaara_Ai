@@ -54,7 +54,7 @@ Table Of Contents
 ###  GRU Based Sequence To Sequence Model using Mediapipe 
 
 <p align="center">
-  <img src="https://github.com/vnrr2023/ishaara_ml/blob/main/GIFS/rnn.gif?raw=true" />
+  <img src="https://github.com/vnrr2023/ishaara_ml/blob/main/GIFS/rnn.gif?raw=true" width="200px" height="200px" />
 </p>
 
 - Extracted landmarks using Mediapipe from videos collected from school students.
@@ -80,7 +80,7 @@ Table Of Contents
 ```
 ### ConvLSTM Based 
 <p align="center">
-  <img src="https://github.com/vnrr2023/ishaara_ml/blob/main/GIFS/convlstm.gif?raw=true" width="100px" height="100px" />
+  <img src="https://github.com/vnrr2023/ishaara_ml/blob/main/GIFS/convlstm.gif?raw=true" width="200px" height="200px" />
 </p>
 
 - This is a combination of Convolution layers and Lstm cells through which we tried ``` Video Classification for actions ```.
@@ -95,7 +95,7 @@ Table Of Contents
 ### Conv3D Based Video Classification Approach.
 
 <p align="center">
-  <img src="https://github.com/vnrr2023/ishaara_ml/blob/main/GIFS/1%20(1).gif?raw=true" />
+  <img src="https://github.com/vnrr2023/ishaara_ml/blob/main/GIFS/1%20(1).gif?raw=true" width="200px" height="200px" />
 </p>
 
 - Sadly we could not develop this model as we had less powerfull resources.
@@ -115,9 +115,7 @@ Table Of Contents
 [![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/)
 
 ## Architecture Of Entire system
-
-
-  ![architecture](https://github.com/vnrr2023/ishaara_ml/blob/main/RCNN+roboflow/architecture%20.gif?raw=true)
+![architecture](https://github.com/vnrr2023/ishaara_ml/blob/main/RCNN+roboflow/architecture%20.gif?raw=true)
 
 More icons
 https://badges.pages.dev/
