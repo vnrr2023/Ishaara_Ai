@@ -80,7 +80,7 @@ Table Of Contents
 ```
 ### ConvLSTM Based 
 <p align="center">
-  <img src="https://github.com/vnrr2023/ishaara_ml/blob/main/GIFS/convlstm.gif?raw=true" width="50%" height="50%" />
+  <img src="https://github.com/vnrr2023/ishaara_ml/blob/main/GIFS/convlstm.gif?raw=true" width="100px" height="100px" />
 </p>
 
 - This is a combination of Convolution layers and Lstm cells through which we tried ``` Video Classification for actions ```.
