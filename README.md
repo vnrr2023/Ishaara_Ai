@@ -51,11 +51,12 @@ Table Of Contents
 * Metrics
   ![metrics](https://github.com/vnrr2023/ishaara_ml/blob/main/RCNN+roboflow/metrics/metrics.png?raw=true)
 
-###  GRU Based Sequence To Sequence Model using Mediapipe Version 2
+###  GRU Based Sequence To Sequence Model using Mediapipe 
+
 <p align="center">
   <img src="https://github.com/vnrr2023/ishaara_ml/blob/main/GIFS/rnn.gif?raw=true" />
 </p>
-![Gru](https://github.com/vnrr2023/ishaara_ml/blob/main/GIFS/rnn.gif?raw=true)
+
 - Extracted landmarks using Mediapipe from videos collected from school students.
 - Works with 99% testing accuracy with 6 actions namely 
   + blank (no action)
@@ -68,19 +69,20 @@ Table Of Contents
 - For sentence creation ChatGPT was used.
 - For trying Out 
   + Intall python 3.11
+
 ```bash
   pip install -r requirements.txt
   git clone https://github.com/vnrr2023/ishaara_ml/tree/main
   cd "GRU+Mediapipe"
   cd "Version_2"
   py main.py
- 
+
 ```
 ### ConvLSTM Based 
 <p align="center">
   <img src="https://github.com/vnrr2023/ishaara_ml/blob/main/GIFS/convlstm.gif?raw=true" />
 </p>
-![Cl](https://github.com/vnrr2023/ishaara_ml/blob/main/GIFS/convlstm.gif?raw=true)
+
 - This is a combination of Convolution layers and Lstm cells through which we tried ``` Video Classification for actions ```.
 - Collected Videos and Trained a model for 8hrs on CPU.
 - The [models](https://github.com/vnrr2023/ishaara_ml/tree/main/ConvLSTM/models) folder contains all the ConvLSTM models.
@@ -91,11 +93,10 @@ Table Of Contents
   ![metrics](https://github.com/vnrr2023/ishaara_ml/blob/main/ConvLSTM/Stats/stats.png?raw=true)
 
 ### Conv3D Based Video Classification Approach.
+
 <p align="center">
   <img src="https://github.com/vnrr2023/ishaara_ml/blob/main/GIFS/1%20(1).gif?raw=true" />
 </p>
-
-![Gru](https://github.com/vnrr2023/ishaara_ml/blob/main/GIFS/1%20(1).gif?raw=true)
 
 - Sadly we could not develop this model as we had less powerfull resources.
 - It creates a 3Gb model and needs 32gb ram + a poerfull gpu_cpu.
