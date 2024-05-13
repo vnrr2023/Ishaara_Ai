@@ -99,7 +99,7 @@ Table Of Contents
 </p>
 
 - Sadly we could not develop this model as we had less powerfull resources.
-- It creates a 3Gb model and needs 32gb ram + a poerfull gpu_cpu.
+- It creates a 3Gb model and needs 32gb ram + a powerfull gpu && cpu.
 - U can train it  (Mail chouhanvivek207@gmail.com for data).
 
 ## Future Scope and other practices.
@@ -108,11 +108,37 @@ Table Of Contents
 - A quick Comm model so that users can use it for quick communication like eg ``` where is abc marg ? how to go there ? ```
 - Educational based website where students can practice ISL using AI.
 
+## Challenges and lessons
+- Deep learning models to train from scratch is difficult.  They need High volume of data and in proper format.
+- More powerfull resources (hardware) are required like GPU to parallely process the data which are infact Matrices.
+
 
 ## 🔗 Contributors
-[![portfolio](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)]("https://ishaara.netlify.app/")
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/)
-[![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/)
+<p align="center">
+  <img src="https://github.com/vnrr2023/ishaara_ml/blob/main/assets/IMG-20240429-WA0044.jpg?raw=true"  />
+</p>
+
+
+* Vivek Chouhan (extreme right) <br/>
+  [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/vivek-chouhan/)
+
+* Nishikant Raut (extreme left) <br/>
+  [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nishidev/)
+
+* Rehan Sayyed (black shirt) <br/>
+  [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rehan42/)
+
+* Rohit Deshmukh (purple shirt) <br/>
+   [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rohit-deshmukh-/)
+
+
+## Silent Contributors
+<p align="center">
+  <img src="https://github.com/vnrr2023/ishaara_ml/blob/main/assets/IMG-20231020-WA0004.jpg?raw=true" />
+</p>
+
+
+
 
 ## Architecture Of Entire system
 ![architecture](https://github.com/vnrr2023/ishaara_ml/blob/main/RCNN+roboflow/architecture%20.gif?raw=true)
