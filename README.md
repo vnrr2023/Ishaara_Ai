@@ -125,16 +125,16 @@ Table Of Contents
 * Nishikant Raut (extreme left) <br/>
   [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nishidev/)
 
-* Rehan Sayyed (black shirt) <br/>
+* Rehan Sayyed (black shirt-middle) <br/>
   [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rehan42/)
 
-* Rohit Deshmukh (purple shirt) <br/>
+* Rohit Deshmukh (purple shirt- middle) <br/>
    [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rohit-deshmukh-/)
 
 
 ## Silent Contributors
 <p align="center">
-  <img src="https://github.com/vnrr2023/ishaara_ml/blob/main/assets/IMG-20231020-WA0004.jpg?raw=true" />
+  <img src="https://github.com/vnrr2023/ishaara_ml/blob/main/assets/IMG-20231020-WA0004.jpg?raw=true" width="500" />
 </p>
 
 
