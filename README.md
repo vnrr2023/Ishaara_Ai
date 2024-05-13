@@ -115,7 +115,7 @@ Table Of Contents
 
 ## 🔗 Contributors
 <p align="center">
-  <img src="https://github.com/vnrr2023/ishaara_ml/blob/main/assets/IMG-20240429-WA0044.jpg?raw=true"  />
+  <img src="https://github.com/vnrr2023/ishaara_ml/blob/main/assets/IMG-20240429-WA0044.jpg?raw=true" width="550" />
 </p>
 
 
@@ -133,6 +133,10 @@ Table Of Contents
 
 
 ## Silent Contributors
+
+We thank the entire staff of [Bombay Institution For Deaf & Mutes](https://www.justdial.com/Mumbai/Bombay-Institute-For-The-Deaf-Mutes-Opposite-Mazgaon-Court-Mazgaon/022P860275_BZDET) for their valuable cooperation throughout the project and specially the children.
+<br/> They selflessly helped us collect data and gave us valuable information about ISL.
+
 <p align="center">
   <img src="https://github.com/vnrr2023/ishaara_ml/blob/main/assets/IMG-20231020-WA0004.jpg?raw=true" width="500" />
 </p>
