@@ -10,7 +10,8 @@ Our project focuses on creating a robust, scalable system to predict, interpret,
 For our third-year Mini Project, we began our research with a visit to the [Bombay Institution For Deaf & Mutes](https://www.justdial.com/Mumbai/Bombay-Institute-For-The-Deaf-Mutes-Opposite-Mazgaon-Court-Mazgaon/022P860275_BZDET). We initially gathered information about commonly used actions and words through the institution's teachers.
 
 ## View Ishaara Ai website (Live Now 🔥)
-[![image](https://img.shields.io/badge/IshaaraAi-red?style=flat)](https://ishaara.netlify.app/)
+[![image](https://img.shields.io/badge/IshaaraAi_v1-red?style=flat)](https://ishaara.netlify.app/)
+[![image](https://img.shields.io/badge/IshaaraAi_v2-yellow?style=flat)](https://ishaara.vercel.app/)
 
 Table Of Contents
 - [Tech Stack and Libraries](https://github.com/vnrr2023/ishaara_ml/tree/main?tab=readme-ov-file#tech-stack)
